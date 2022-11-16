@@ -1,7 +1,7 @@
-### Hi there 👋 
-### I'm Warda Sobaih
+## Hi there 👋 
+## I'm Warda Sobaih
 
-## ⚡🙋‍♂️ About Me
+### ⚡🙋‍♂️ About Me
 
 </br>
 
@@ -12,16 +12,16 @@
 
 
 
-## <strong> 📊  My Github Stats :</strong><br><br>
+### <strong> 📊  My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=warda-jawad&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warda-jawad&theme=radical&hide_border=true"/><br><br>
 
-## <strong>💡 My Languages :</strong><br><br>
+### <strong>💡 My Languages :</strong><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warda-jawad&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+### <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
