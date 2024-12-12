@@ -5,7 +5,8 @@
 
 </br>
 
-- 🌱 I’m currently Working on Mobile Application (FLUTTER)
+- 🌱 I’m currently Working on Mobile Application (FLUTTER).
+- 🌱 I’m currently learning Python. 
 -  :bulb:  I like to explore new technologies and develop software solutions and quick hacks.
 - 🤝 I’m available for freelancing.
 - 📫 You can contact me an email at wardasobaih@gmail.com ! I'll try to respond as soon as I can.
