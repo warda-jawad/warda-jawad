@@ -5,7 +5,7 @@
 
 </br>
 
-- 🌱 I’m currently Working on Mobile Application (FLUTTER).
+- 🌱 I’m currently Working on Mobile Application (FLUTTER), Ruby on Rails. 
 - 🌱 I’m currently learning Python. 
 -  :bulb:  I like to explore new technologies and develop software solutions and quick hacks.
 - 🤝 I’m available for freelancing.
